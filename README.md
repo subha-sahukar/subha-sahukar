@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subha-sahukar
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Java and microservices
+- 🌱 I’m currently learning Java , Python, Data science and  microservices
 - 💞️ I’m looking to collaborate on mini projects 
 - 📫 How to reach me subha_sahukar@yahoo.com
 
